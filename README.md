@@ -1,7 +1,3 @@
-# Mina zkApp: Weightsafe
-
-This template uses TypeScript.
-
 ## How to build
 
 ```sh
