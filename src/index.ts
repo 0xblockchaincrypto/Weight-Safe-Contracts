@@ -1,3 +1,3 @@
-import { Add } from './Add.js';
+import { WeightSafe } from './WeightSafe.js';
 
-export { Add };
+export { WeightSafe };
